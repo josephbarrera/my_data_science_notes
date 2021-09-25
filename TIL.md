@@ -2,3 +2,4 @@
 9/21 Tues - Functions + group by = keys to the castle of data
 9/22 Wed - Worked on the Join function exercises
 9/23 Thur - Worked and learned to approach it line by line
+9/24 Fri - Reviewing all the SQL terms and the query order
