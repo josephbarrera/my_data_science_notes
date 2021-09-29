@@ -6,4 +6,5 @@
 9/25 Sat - Tried out the Quiz and realized I need to study
 9/26 Sun - Went over the Query order and reviwed the material
 9/27 Mon - Learned about Subqueries and Temp Tables
-9/28 Tues - 
+9/28 Tues - Learned about Case Statements
+9/29 Wed - Continued with Case Statements
