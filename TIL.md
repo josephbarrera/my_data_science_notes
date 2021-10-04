@@ -7,4 +7,14 @@
 9/26 Sun - Went over the Query order and reviwed the material
 9/27 Mon - Learned about Subqueries and Temp Tables
 9/28 Tues - Learned about Case Statements
-9/29 Wed - Continued with Case Statements
+9/29 Wed - Continued with Case Statements 
+**Will use this code for timestamp data analysis alot:
+SELECT emp_no, MAX(to_date) AS max_date
+FROM dept_emp
+GROUP BY emp_no;**
+9/30 Thurs - Took SQL Quiz, created a HackerRank and SQLZoo Repo
+10/1 Fri - Started Python Module
+10/2 Sat - 
+10/3 Sun - 
+10/4 Mon - Functions we see called on objects with the dot syntax are a special function called a “method”. Methods are functions defined on objects (like lists or strings, for example)
+- Worked on control_structures: Conditionals (if, else) Loops (for, while, break, continue)
