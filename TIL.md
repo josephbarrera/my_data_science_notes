@@ -18,3 +18,6 @@ GROUP BY emp_no;**
 10/3 Sun - 
 10/4 Mon - Functions we see called on objects with the dot syntax are a special function called a “method”. Methods are functions defined on objects (like lists or strings, for example)
 - Worked on control_structures: Conditionals (if, else) Loops (for, while, break, continue)
+10/5 Tues - Nature is much simpler than all our thoughts about it - Richard Feynman
+-started Python functions (arguments, parameters, default values, keyword arguments, calling functions, function scope, lambda)
+10/6 Wed - 
