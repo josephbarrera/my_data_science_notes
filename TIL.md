@@ -20,4 +20,5 @@ GROUP BY emp_no;**
 - Worked on control_structures: Conditionals (if, else) Loops (for, while, break, continue)
 10/5 Tues - Nature is much simpler than all our thoughts about it - Richard Feynman
 -started Python functions (arguments, parameters, default values, keyword arguments, calling functions, function scope, lambda)
-10/6 Wed - 
+10/6 Wed - Continued Python functions exercises
+10/7 Thur - 
