@@ -21,4 +21,4 @@ GROUP BY emp_no;**
 10/5 Tues - Nature is much simpler than all our thoughts about it - Richard Feynman
 -started Python functions (arguments, parameters, default values, keyword arguments, calling functions, function scope, lambda)
 10/6 Wed - Continued Python functions exercises
-10/7 Thur - 
+10/7 Thur - Went over Python functions exercies, started Python imports of libraries and modules into Python
