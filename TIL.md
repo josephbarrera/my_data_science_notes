@@ -21,4 +21,8 @@ GROUP BY emp_no;**
 10/5 Tues - Nature is much simpler than all our thoughts about it - Richard Feynman
 -started Python functions (arguments, parameters, default values, keyword arguments, calling functions, function scope, lambda)
 10/6 Wed - Continued Python functions exercises
-10/7 Thur - Went over Python functions exercies, started Python imports of libraries and modules into Python
+10/7 Thur - Went over Python functions exercies, started Python imports of libraries and modules into Python, 
+Good book - Ultra Learning (teaches how to learn faster)
+10/8 Fri - Started Matplotlib, created graphs using Pyton
+10/9 - 10/11 -Played 6 weddings and taught lessons
+10/12
