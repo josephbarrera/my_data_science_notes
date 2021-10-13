@@ -25,4 +25,6 @@ GROUP BY emp_no;**
 Good book - Ultra Learning (teaches how to learn faster)
 10/8 Fri - Started Matplotlib, created graphs using Pyton
 10/9 - 10/11 -Played 6 weddings and taught lessons
-10/12
+10/12 Tues - Numpy (IMPORTANT: learn to use vectorized operations and create arrays of booleans to filter results)
+10/13 Wed - Numpy exercises and review of numpy
+10/14 Thur - 
