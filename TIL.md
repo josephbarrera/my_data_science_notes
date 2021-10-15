@@ -28,3 +28,5 @@ Good book - Ultra Learning (teaches how to learn faster)
 10/12 Tues - Numpy (IMPORTANT: learn to use vectorized operations and create arrays of booleans to filter results)
 10/13 Wed - Numpy exercises and review of numpy
 10/14 Thur - Started PANDAS
+Good book read - The Signal and the Noise
+10/15 Fri - Working with Dataframes module
