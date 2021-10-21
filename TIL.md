@@ -30,3 +30,8 @@ Good book - Ultra Learning (teaches how to learn faster)
 10/14 Thur - Started PANDAS
 Good book read - The Signal and the Noise
 10/15 Fri - Working with Dataframes module
+10/16 Mon - Dataframes module
+10/17 Tues - Advanced Dataframes module
+10/18 Wed - Started Seaborn and exercises
+10/19 Thurs - Continued Seaborn exercises and reviewed for Python assessment
+10/20 Fri - 
