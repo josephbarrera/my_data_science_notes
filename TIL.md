@@ -34,4 +34,4 @@ Good book read - The Signal and the Noise
 10/17 Tues - Advanced Dataframes module
 10/18 Wed - Started Seaborn and exercises
 10/19 Thurs - Continued Seaborn exercises and reviewed for Python assessment
-10/20 Fri - 
+10/20 Fri - Python Assessment, Started spreadsheets
