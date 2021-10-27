@@ -37,4 +37,5 @@ Good book read - The Signal and the Noise
 10/20 Fri - Python Assessment, Started spreadsheets
 10/25 Mon - Yes, the utility of the data can outweigh its inherent wow factor.  Primarily, people are going to be hiring you to do something with data that *they* want you to take value from, so you essentially have an audience that is already receptive to the material that you are working with.  It may feel dry, but it could be extremely pertinent and actionable in your field, and *that* is your fuel for the storytelling more than the data itself - Madeleine Cooper 
 Storytelling module
-10/26 Tues - 
+10/26 Tues - Learned about a scrum/kanban board, started storytelling project
+10/27 Wed - Started Tableau module
