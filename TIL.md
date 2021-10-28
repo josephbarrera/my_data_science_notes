@@ -14,8 +14,6 @@ FROM dept_emp
 GROUP BY emp_no;**
 9/30 Thurs - Took SQL Quiz, created a HackerRank and SQLZoo Repo
 10/1 Fri - Started Python Module
-10/2 Sat - 
-10/3 Sun - 
 10/4 Mon - Functions we see called on objects with the dot syntax are a special function called a “method”. Methods are functions defined on objects (like lists or strings, for example)
 - Worked on control_structures: Conditionals (if, else) Loops (for, while, break, continue)
 10/5 Tues - Nature is much simpler than all our thoughts about it - Richard Feynman
@@ -39,3 +37,4 @@ Good book read - The Signal and the Noise
 Storytelling module
 10/26 Tues - Learned about a scrum/kanban board, started storytelling project
 10/27 Wed - Started Tableau module
+10/28 Thur - DOCUMENTATION (markdown everything!), make sure a task is done before moving onto another task (don't push a task to the end of the project), employers like to see that you are doing projects on the side
