@@ -39,4 +39,6 @@ Storytelling module
 10/27 Wed - Started Tableau module
 10/28 Thur - DOCUMENTATION (markdown everything!), make sure a task is done before moving onto another task (don't push a task to the end of the project), employers like to see that you are doing projects on the side
 11/1 Mon - Presented Telco Project, started Stats module and Simulation exercises
-11/2 Tue - 
+11/2 Tue - Continued simulation exerices and reviewed, started Probability Distributions
+11/3 Wed - Continued Probability Distribution exercises
+11/4 Thur -
