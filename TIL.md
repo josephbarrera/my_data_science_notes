@@ -41,4 +41,4 @@ Storytelling module
 11/1 Mon - Presented Telco Project, started Stats module and Simulation exercises
 11/2 Tue - Continued simulation exerices and reviewed, started Probability Distributions
 11/3 Wed - Continued Probability Distribution exercises
-11/4 Thur -
+11/4 Thur - Started Stats - Hypothesis Testing and T-Test
