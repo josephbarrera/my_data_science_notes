@@ -42,3 +42,4 @@ Storytelling module
 11/2 Tue - Continued simulation exerices and reviewed, started Probability Distributions
 11/3 Wed - Continued Probability Distribution exercises
 11/4 Thur - Started Stats - Hypothesis Testing and T-Test
+11/5 Fri - Started Correlation in Stats
