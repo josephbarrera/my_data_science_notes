@@ -43,3 +43,7 @@ Storytelling module
 11/3 Wed - Continued Probability Distribution exercises
 11/4 Thur - Started Stats - Hypothesis Testing and T-Test
 11/5 Fri - Started Correlation in Stats
+11/8 Mon - *Document your null and alternative hypothesis
+*Document your confidence interval, alpha as well
+Started Chi2 (comparing proportions) - expected values need to be higher than 5, otherwise it is sparse
+11/9 Tues - 
