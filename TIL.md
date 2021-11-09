@@ -46,4 +46,4 @@ Storytelling module
 11/8 Mon - *Document your null and alternative hypothesis
 *Document your confidence interval, alpha as well
 Started Chi2 (comparing proportions) - expected values need to be higher than 5, otherwise it is sparse
-11/9 Tues - 
+11/9 Tues - Stats Quiz, Classification (Data acquisition)
