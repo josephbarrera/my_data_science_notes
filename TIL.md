@@ -47,6 +47,14 @@ Storytelling module
 *Document your confidence interval, alpha as well
 Started Chi2 (comparing proportions) - expected values need to be higher than 5, otherwise it is sparse
 11/9 Tues - Stats Quiz, Classification (Data acquisition)
-11/10 Wed - Data Prep, Tidy Data
+11/10 Wed - Data Prep
 11/11 Thur - Veteran's Day
 11/12 Fri - EDA (exploratory data analysis) * If there's a plan or even a chance you will build models with this data, be sure to split the dataset and only explore train. By exploring only train data, we keep from peeking at our out of sample data. If you are absolutely not going to model, it's OK to explore the entire dataset. Any exploration more in-depth than a histogram or .value_counts should only be done on train *
+11/15 Mon - Continued EDA
+- Adam suggested to not explore too long. Focus on Alt Hypothesis. 
+- Pairplot and heatmaps are great for self exploration of data.
+- Don't use pairplot and heatmaps for presentations
+- Should do Exercise 3 bc it will lead into the Classification Project
+- In Tidying, each observation forms a row
+- Seaborn likes the melted "long" up and down format
+11/16 Tues - 
