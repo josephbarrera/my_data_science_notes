@@ -57,4 +57,5 @@ Started Chi2 (comparing proportions) - expected values need to be higher than 5,
 - Should do Exercise 3 bc it will lead into the Classification Project
 - In Tidying, each observation forms a row
 - Seaborn likes the melted "long" up and down format
-11/16 Tues - 
+11/16 Tues - Learned Splitting data and Evaluation data. Baseline prediction (Coffee) or in TelCo data (churn vs. no churn) 
+11/17 Wed - 
